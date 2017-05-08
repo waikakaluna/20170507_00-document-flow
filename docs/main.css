@@ -1,0 +1,19 @@
+#first-div{
+	background: blue;
+	float: left;
+	width: 200px;
+	height: 200px;
+}
+
+#second-div{
+	background: purple;
+	float: left;
+	width: 200px;
+	height: 200px;
+}
+
+#third-div{
+	background: red;
+	width: 600px;
+	height: 200px;
+}
